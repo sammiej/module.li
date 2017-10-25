@@ -1,0 +1,3 @@
+rootProject.name = 'moduleliapp'
+
+include ':app'
